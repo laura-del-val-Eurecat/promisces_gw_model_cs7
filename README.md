@@ -31,8 +31,16 @@ import os
 import shutil
 ```
 
-## References
+## Required input files
 
+H1D_Input_Atmos.csv, .csv file with precipitation and estimated evapotranspiration for Atmospheric BC of HYDRUS 1D.
+
+MF6_Input_Geometry.xlsx, array with top and bottom elevation of saturated zone model layers.
+
+MF6_Input_Heads.xlsx, time dependent heads at the inland boundary conditions for MF6.
+
+
+## References
 
 Collenteur, R., G. Brunetti, and M. Vremec. Phydrus: Python implementation of the hydrus-1d unsaturated zone model. Phydrus Documentation. Release 0.2.0. 2021
 
