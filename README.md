@@ -39,6 +39,8 @@ MF6_Input_Geometry.xlsx, array with top and bottom elevation of saturated zone m
 
 MF6_Input_Heads.xlsx, time dependent heads at the inland boundary conditions for MF6.
 
+## Acknowledgments:
+This research was founded by the Horizon 2020 Framework Programme of the European Union (Project number: 101036449: “PROMISCES”).
 
 ## References
 
